@@ -1,5 +1,6 @@
 fastapi
-unicorn
+uvicorn
 streamlit
 requests
+
 
